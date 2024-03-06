@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 8452-5D6C
+
+ R‚pertoire de C:\Users\one\app1
+
+06/03/2024  08:43    <DIR>          .
+06/03/2024  08:42    <DIR>          ..
+06/03/2024  08:43                 0 f2.txt
+02/03/2024  16:21               364 fich1.txt
+02/03/2024  16:23               410 test.txt
+               3 fichier(s)              774 octets
+               2 R‚p(s)  437ÿ231ÿ988ÿ736 octets libres
